@@ -49,7 +49,7 @@ SoMe are a social media platform where people can share posts and images with ot
 - React 18.2.0
 
 ## Node Modules
-### Dependencies installations:
+### Dependencies:
 - "@hookform/resolvers": "^2.9.10"
 - "@testing-library/jest-dom": "^5.16.5"
 - "@testing-library/react": "^13.4.0"
