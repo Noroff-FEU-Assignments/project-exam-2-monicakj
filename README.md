@@ -73,9 +73,9 @@ The API that are used for this project can be found under [Social EndPoints](htt
 
 ### Setup
 1. Clone the repo to GitHub Desktop. 
-2. Open the pr
-To run the app, run the following command:
+2. Open the repo in Visual Studio Code. 
 
+To run the app, run the following command:
 ```bash
 npm start
 ```
