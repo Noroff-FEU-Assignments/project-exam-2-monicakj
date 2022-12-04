@@ -24,11 +24,11 @@ SoMe are a social media platform where people can share posts and images with ot
     </tr>
     <tr>
       <th>Design Prototype</th>
-      <td></td>
+      <td>https://www.figma.com/file/4ndbTBPePsVkcvWum6NXbd/Project-Exam-2---SoMe?t=HkbKCRxb71MNyizk-1</td>
     </tr>
     <tr>
       <th>Style Guide</th>
-      <td></td>
+      <td>https://www.figma.com/file/5OJ4kL6ENv51WchSHFOUhC/Project-Exam-2---Social-Media-Company-(Style-Guide)?node-id=0%3A1&t=HkbKCRxb71MNyizk-1</td>
     </tr>
     <tr>
       <th>Trello Board</th>
@@ -36,7 +36,7 @@ SoMe are a social media platform where people can share posts and images with ot
     </tr>
     <tr>
       <th>Repository</th>
-      <td></td>
+      <td>https://github.com/Noroff-FEU-Assignments/project-exam-2-monicakj.git</td>
     </tr>
     <tr>
       <th>Hosted Demo</th>
