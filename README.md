@@ -31,8 +31,8 @@ SoMe are a social media platform where people can share posts and images with ot
       <td></td>
     </tr>
     <tr>
-      <th>Kanban Board</th>
-      <td></td>
+      <th>Trello Board</th>
+      <td>https://trello.com/invite/b/E4XvkEbI/ATTI0dd52c0468c3da50c8e37cdb98e5cd745029A8F3/project-exam-2-some</td>
     </tr>
     <tr>
       <th>Repository</th>
