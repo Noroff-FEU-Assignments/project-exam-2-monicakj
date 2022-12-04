@@ -6,8 +6,7 @@ An existing Social Media company has approached you to create a brand new front 
 ### API
 The API that are used for this project can be found under [Social EndPoints](https://nf-api.onrender.com/docs/static/index.html) in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
-## Project Exam 2
-### Resource and URL
+## Resource and URL
 <table>
   <thead>
     <tr>
