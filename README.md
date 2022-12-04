@@ -20,7 +20,7 @@ SoMe are a social media platform where people can share posts and images with ot
   <tbody>
     <tr>
       <th>Gantt Chart</th>
-      <td></td>
+      <td>https://sharing.clickup.com/43294187/g/h/1997fb-484/257a8c0c6b91b87</td>
     </tr>
     <tr>
       <th>Design Prototype</th>
