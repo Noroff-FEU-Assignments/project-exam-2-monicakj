@@ -1,7 +1,7 @@
 import React from 'react';
 import HomeCta from './HomeCta';
 import { Link } from 'react-router-dom';
-import HeroImage from "../../assets/SoMe-hero.svg";
+// import HeroImage from "../../assets/SoMe-hero.svg";
 
 function Index () {
   document.title = "Social Media Company | Home";
@@ -13,7 +13,7 @@ function Index () {
     </div>
 
     <div className='index--hero'>
-          <img src={HeroImage} alt="soMe hero"></img>
+          {/* <img src={HeroImage} alt="soMe hero"></img> */}
     </div>
     
     <HomeCta />

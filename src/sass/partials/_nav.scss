@@ -1,10 +1,10 @@
 // MAIN NAV
 .navbar {
     justify-content: center;
-    padding: 1.5rem;
+    padding: 0rem;
 
-    .navbar-brand {
-        font-size: 30px;
+    .navbar-brand img {
+        width: 100px;
     }
 
     .active {
@@ -38,7 +38,6 @@
     .active {
         text-decoration: underline;
     }
-    
 }
 
 
