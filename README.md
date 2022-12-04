@@ -69,9 +69,6 @@ The API that are used for this project can be found under [Social EndPoints](htt
 - "web-vitals": "^2.1.4"
 - "yup": "^0.32.11"
 
-## Static Hosting Page
-- Netlify
-
 ## Getting Started
 
 ### Setup
