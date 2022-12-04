@@ -43,7 +43,7 @@ The API that are used for this project can be found under [Social EndPoints](htt
 </table>
 
 ## Built With
-- React
+- React 18.2.0
 
 ## Node Modules
 ### Dependencies installations:
@@ -77,7 +77,7 @@ The API that are used for this project can be found under [Social EndPoints](htt
 ### Running the app
 To run the app, run the following commands in VS Code Terminal:
 - npm install
-- npm start
+- npm run start
 
 The app will be running through your localhost on port 3000.
 
@@ -88,5 +88,7 @@ The app will be running through your localhost on port 3000.
 
 ### Register New User
 - Enter name. 
-- Enter email address.
+- Enter a valid stud.noroff.no or noroff.no email address.
 - Enter password. 
+
+## Summary
