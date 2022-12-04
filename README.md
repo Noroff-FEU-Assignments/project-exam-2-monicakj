@@ -123,4 +123,4 @@ Project Exam 2 is the final project exam in my two-year Frontend-studies at Noro
 This project assignment has been fun, but also challenging due to facing multiple errors and having a hard time to figure out how to develop the entire app using JS. 
 
 ### Errors
-- When navigating from the Latest Posts page and clicking on "View Post" button the Posts Details page would not appear on the static hosting site. I tried to figure out the cause of the "Page Not Found" error, but could not manage to find the fault of this in my code. Maybe this has something to do with the Build folder from VS Code. Apart from the static hosting site the details of the posts will appear when running the app locally with npm run start via the Terminal. 
+- Post details page won't appear via the static hosting site (Netlify). The Build folder has probably something to do with this error. When navigating on the Latest Posts page you can't click on the "View Posts" button or the author of the post. The navigation only works when you are running the app locally. 
