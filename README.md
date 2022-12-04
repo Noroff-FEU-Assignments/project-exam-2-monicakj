@@ -76,15 +76,17 @@ SoMe are a social media platform where people can share posts and images with ot
 ### Installing
 1. Clone the repo:
 
-via HTTPS:
-https://github.com/Noroff-FEU-Assignments/project-exam-2-monicakj.git
+  via HTTPS:
+  ```bash
+  https://github.com/Noroff-FEU-Assignments/project-exam-2-monicakj.git
+  ```
 
-or 
+  or 
 
-via SSH: 
-```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-monicakj.git
-```
+  via SSH: 
+  ```bash
+  git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-monicakj.git
+  ```
 
 2. Open the repo in Visual Studio Code. 
 
