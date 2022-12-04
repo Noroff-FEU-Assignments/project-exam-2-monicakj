@@ -46,7 +46,7 @@ The API that are used for this project can be found under [Social EndPoints](htt
 - React 0.1.0
 
 ## Node Modules
-### Dependencies installed for this React-project: 
+### Dependencies installations:
 - "@hookform/resolvers": "^2.9.10"
 - "@testing-library/jest-dom": "^5.16.5"
 - "@testing-library/react": "^13.4.0"
