@@ -76,15 +76,8 @@ The API that are used for this project can be found under [Social EndPoints](htt
 
 ### Running the app
 To run the app, run the following commands in VS Code Terminal:
-
-```bash
-npm install
-
--
-
-```bash
-npm start
-```
+- npm install
+- npm start
 
 The app will be running through your localhost on port 3000.
 
