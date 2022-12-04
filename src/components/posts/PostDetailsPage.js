@@ -1,13 +1,13 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { SOCIAL_URL } from "../../constants/Api";
-import AuthContext from "../../context/AuthContext";
 import { useState, useEffect, useContext } from "react";
+import { Container } from "react-bootstrap";
+import AuthContext from "../../context/AuthContext";
 import CommentPost from "./CommentPost";
 import ReactPost from "./ReactPost";
 import useAxios from "../../hooks/useAxios";
 import DisplayError from "../common/DisplayError";
 import Loader from "../common/Loader";
-import { Container } from "react-bootstrap";
 import moment from "moment";
 import SubNav from "../layout/SubNav";
 
@@ -30,7 +30,7 @@ export default function PostDetails() {
   useEffect(() => {
     async function getPostsDetails() {
       if (!id) {
-        navigate("/dashboard/posts");
+        navigate("/posts");
       }
       try {
         const response = await http.get(url);
