@@ -1,8 +1,7 @@
 import React from 'react';
-// import HomeCarousel from './HomeCarousel';
 import HomeCta from './HomeCta';
 import { Link } from 'react-router-dom';
-// import HeroImage from "../../assets/SoMe.svg";
+import HeroImage from "../../assets/SoMe-hero.svg";
 
 function Index () {
   document.title = "Social Media Company | Home";
@@ -14,8 +13,7 @@ function Index () {
     </div>
 
     <div className='index--hero'>
-        {/* <HomeCarousel /> */}
-          {/* <img src={HeroImage} alt="soMe hero"></img> */}
+          <img src={HeroImage} alt="soMe hero"></img>
     </div>
     
     <HomeCta />
