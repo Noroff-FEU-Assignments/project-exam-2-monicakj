@@ -1,4 +1,5 @@
-# project-exam-1-test-monicakj
+# Project Exam 2
+## SoMe developed by Monica Kjærvoll
 
 ## Brief
 An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
@@ -7,8 +8,6 @@ An existing Social Media company has approached you to create a brand new front 
 The API that are used for this project can be found under [Social EndPoints](https://nf-api.onrender.com/docs/static/index.html) in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
 ## Description 
-SoMe - Social Media Platform developed by Monica Kjærvoll
-
 SoMe are a social media platform where people can share posts and images with other users from all around the world. 
 
 ## Resource and URL
