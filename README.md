@@ -7,7 +7,7 @@ An existing Social Media company has approached you to create a brand new front 
 The API that are used for this project can be found under [Social EndPoints](https://nf-api.onrender.com/docs/static/index.html) in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
 ## Description 
-SoMe are a social media platform for users that want to share travel posts and images.
+SoMe are a social media platform where users can share travel posts and images.
 
 ## Resource and URL
 <table>
