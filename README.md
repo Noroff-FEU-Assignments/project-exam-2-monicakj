@@ -119,3 +119,8 @@ The app will be running through your localhost on port 3000.
 - Enter password (the password must be at least 8 characters).
 
 ## Summary
+Project Exam 2 is the final project exam in my two-year Frontend-studies at Noroff. 
+This project assignment has been fun, but also challenging due to facing multiple errors and having a hard time to figure out how to develop the entire app using JS. 
+
+### Errors
+- Post details page won't appear via the static hosting site (Netlify). The Build folder has probably something to do with this error. When navigating on the Latest Posts page you can't click on the "View Posts" button or the author of the post. The navigation only works when you are running the app locally. 
