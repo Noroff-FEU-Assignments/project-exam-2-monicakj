@@ -91,11 +91,11 @@ npm run start
 The app will be running through your localhost on port 3000.
 
 ## Access
-### Login Page
+### Login
 - Enter a valid stud.noroff.no or noroff.no email adddress.
 - Enter password (the password must be at least 8 characters).
 
-### Register Page
+### Register
 - Enter name (the name value must not contain punctuation symbols apart from underscore).
 - Enter a valid stud.noroff.no or noroff.no email address.
 - Enter password (the password must be at least 8 characters).
