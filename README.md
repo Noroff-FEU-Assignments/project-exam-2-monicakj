@@ -6,6 +6,11 @@ An existing Social Media company has approached you to create a brand new front 
 ### API
 The API that are used for this project can be found under [Social EndPoints](https://nf-api.onrender.com/docs/static/index.html) in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
+## Description 
+SoMe - Social Media Platform developed by Monica Kjærvoll
+
+SoMe are a social media platform where people can share posts and images with other users from all around the world. 
+
 ## Resource and URL
 <table>
   <thead>
