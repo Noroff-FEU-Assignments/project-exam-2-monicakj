@@ -77,9 +77,12 @@ The API that are used for this project can be found under [Social EndPoints](htt
 ### Running the app
 To run the app, run the following commands in VS Code Terminal:
 
+1. 
 ```bash
 npm install
 
+
+2.
 ```bash
 npm start
 ```
