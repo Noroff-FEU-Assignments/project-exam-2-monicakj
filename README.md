@@ -119,3 +119,8 @@ The app will be running through your localhost on port 3000.
 - Enter password (the password must be at least 8 characters).
 
 ## Summary
+Project Exam 2 is the final project exam in my two-year Frontend-studies at Noroff. 
+This project assignment has been fun, but also challenging due to facing multiple errors and having a hard time to figure out how to develop the entire app using JS. 
+
+### Errors
+- When navigating from the Latest Posts page and clicking on "View Post" button the Posts Details page would not appear on the static hosting site. I tried to figure out the cause of the "Page Not Found" error, but could not manage to find the fault of this in my code. Maybe this has something to do with the Build folder from VS Code. Apart from the static hosting site the details of the posts will appear when running the app locally with npm run start via the Terminal. 
