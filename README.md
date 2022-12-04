@@ -1,4 +1,4 @@
-# project-exam-1-test-monicakj
+# Project Exam 2
 
 ## Brief
 An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
@@ -43,7 +43,7 @@ The API that are used for this project can be found under [Social EndPoints](htt
 </table>
 
 ## Built With
-- React 0.1.0
+- React 18.2.0
 
 ## Node Modules
 ### Dependencies installations:
@@ -74,8 +74,21 @@ The API that are used for this project can be found under [Social EndPoints](htt
 1. Clone the repo to GitHub Desktop. 
 2. Open the repo in Visual Studio Code. 
 
-To run the app, run the following command:
-```bash
-npm start
-```
+### Running the app
+To run the app, run the following commands in VS Code Terminal:
+- npm install
+- npm run start
 
+The app will be running through your localhost on port 3000.
+
+## Access
+### Login 
+- Enter a valid stud.noroff.no or noroff.no email adddress.
+- Enter password. 
+
+### Register New User
+- Enter name. 
+- Enter a valid stud.noroff.no or noroff.no email address.
+- Enter password. 
+
+## Summary
