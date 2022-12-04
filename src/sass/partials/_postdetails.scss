@@ -1,0 +1,92 @@
+// POSTS DETAILS
+.postDetails {
+    text-align: center;
+    background-color: $secondary--background;
+    margin-bottom: 3rem;
+    margin-top: 0rem;
+    border-radius: 6px;
+
+    @media (max-width: $tabletScreen) {
+        margin-top: 1rem;
+    }
+
+    h1 {
+        padding-top: 2rem;
+    }
+
+    img {
+        margin: 1rem;
+        width: 90%;
+        // border-radius: 6px;
+
+    }
+
+    .postDetails__bodytext {
+        background-color: white;
+        color: white;
+        padding: 1.5rem;
+        margin: auto;
+
+    }
+
+    .postDetails__tags {
+        display: inline-flex;
+
+    }
+
+    hr {
+        margin: 2rem 0 2rem 0;
+    }
+}
+
+// COMMENT, REACT
+.commentPost__form,
+.reactPost__form {
+    width: 640px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+
+    @media (max-width: 991px) {
+        width: 100%;
+    }
+}
+
+.commentPost__container,
+.reactPost__container {
+    text-align: left;
+    padding: 0 1rem 3rem 1rem;
+}
+
+.reactPost--button {
+    background-color: $secondary--color;
+    margin-top: 1.5rem;
+}
+
+.commentPost__form {
+    
+    .commentPost--button {
+        margin-top: 1.5rem;
+        background-color: $primary--color;
+    }
+}
+
+.postComments--item {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 6px;
+    margin-top: 1em;
+}
+
+.postReactions {
+    display: inline-flex;
+    margin: 0;
+
+    p {
+        margin-right: 10px;
+        height: 0;
+    }
+    
+}

@@ -1,0 +1,36 @@
+.login__container {
+    background-color: $primary--background;
+    height: auto;
+
+    h1 {
+        text-align: center;
+        margin-bottom: 2rem;
+        color: black;
+    }
+
+    .password__container {
+    font-family: $body--font;
+    font-size: 14px;
+    text-align: center;
+    margin: 1rem;
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+
+    .signIn--button {
+        background-color: $primary--color;
+    }
+
+    .register--button {
+        background-color: $secondary--color;
+    }
+
+    button:hover {
+        background-color: black;
+        transition: 0.5s;
+    }
+}
+

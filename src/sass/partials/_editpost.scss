@@ -1,0 +1,29 @@
+.editPost__container {
+    margin-bottom: 80px;
+
+    h1 {
+        margin: 2rem;
+        text-align: center;
+    }
+
+    button {
+        font-family: $heading--font;
+        border: 0;
+
+        &:hover {
+            background-color: black;
+            transition: 0.5s;
+        }
+    }
+
+    .editPost__form {
+    background-color: $secondary--background;
+    width: 450px;
+    }
+
+    .editPost--button {
+        margin: 0;
+        padding: 0;
+        background-color: $primary--color;
+    }
+}

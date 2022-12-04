@@ -1,0 +1,38 @@
+// BUTTON
+button {
+    text-transform: uppercase;
+    border: none;
+    // padding: 10px;
+    padding: 12px 28px;
+    font-weight: bold;
+    text-decoration: none;
+    height: 3.5rem;
+    width: 100%;
+    border-radius: 5px;
+    color: white;
+    font-family: $heading--font;
+
+    &:hover {
+        background-color: black;
+        transition: 0.5s;
+    }
+}
+
+// LOGOUT
+.logout--button {
+    background-color: #025159;
+    padding: 0.5rem;
+    color: white;
+    text-decoration: none;
+    height: fit-content;
+    text-transform: none;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 1rem;
+
+    .logout--button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+    }
+}

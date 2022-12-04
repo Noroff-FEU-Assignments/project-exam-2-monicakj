@@ -1,0 +1,10 @@
+$body--font: 'Open Sans', sans-serif;
+$heading--font: 'Montserrat', sans-serif;
+
+p {
+    font-family: $body--font;
+}
+
+h1, h2, h3, h4, button, .brand, a {
+    font-family: $heading--font;
+}

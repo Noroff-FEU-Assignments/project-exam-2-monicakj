@@ -1,0 +1,27 @@
+.updateMedia__container {
+    margin-bottom: 80px;
+
+    h1 {
+        margin: 2rem;
+        text-align: center;
+    }
+
+    .updateMedia--button {
+        margin: 0;
+        padding: 0;
+        font-family: $heading--font;
+        background-color: $primary--color;
+        border: 0;
+    }
+
+    .updateMedia--button:hover {
+        background-color: black;
+        border: 2px solid black;
+        transition: 0.5s;
+    }
+
+    .updateMedia__form {
+        background-color: $secondary--background;
+        width: 450px;
+    }
+}

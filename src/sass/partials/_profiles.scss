@@ -1,0 +1,79 @@
+.profiles__container {
+    text-align: center;
+
+    h1 {
+        margin: 2rem 0 1.5rem 0rem;
+        text-align: left;
+
+        @media (max-width: $mobileScreen) {
+            text-align: center;
+        }
+
+        @media (max-width: $tabletScreen) {
+            text-align: center;
+        }
+    }
+
+    p, .card-title {
+        text-align: center;
+    }
+
+    .profiles__card {
+            display: inline-flex;
+            flex-direction: column;
+            width: 400px;
+            margin: 1rem 1rem 2rem 1rem;
+            padding: 1rem;
+            background-color: white;
+
+            @media (max-width: $mobileScreen) {
+                width: 100%;
+                margin-right: 0;
+                margin-left: 0;
+            }
+
+            @media (max-width: 1399px) {
+            width: 300px;
+            }
+        }
+    
+    .profiles__card--body {
+            padding: 0;
+            margin-top: 20px;
+        }
+
+    .profiles__card--text p {
+        display: inline-flex;
+        margin: 5px;
+    }
+
+}
+
+// VISIT PROFILE
+.visitProfile--btn {
+     background-color: $primary--color;
+}
+
+.visitProfile--btn:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+
+// LOAD MORE
+.loadmore__container {
+    text-align: center;
+    
+    .loadmore--btn {
+    background-color: $secondary--color;
+    width: fit-content;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    }
+
+    .loadmore--btn:hover {
+    background-color: black;
+    color: white;        
+    transition: 0.5s;
+    }
+}
