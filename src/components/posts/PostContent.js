@@ -25,6 +25,7 @@ export default function PostContent ({
           variant="top"
           className="postList--image"
           src={media ? media : defaultPostImage} />
+          
         <Card.Body className="postList__card--body">
 
           <h3 className="postList--title">{title}</h3>
