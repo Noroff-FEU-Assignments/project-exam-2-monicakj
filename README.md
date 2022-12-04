@@ -43,7 +43,7 @@ The API that are used for this project can be found under [Social EndPoints](htt
 </table>
 
 ## Built With
-- React 0.1.0
+- React
 
 ## Node Modules
 ### Dependencies installations:
@@ -75,8 +75,23 @@ The API that are used for this project can be found under [Social EndPoints](htt
 2. Open the repo in Visual Studio Code. 
 
 ### Running the app
-To run the app, run the following command in VS Code Terminal:
+To run the app, run the following commands in VS Code Terminal:
+
+```bash
+npm install
+
 ```bash
 npm start
 ```
 
+The app will be running through your localhost on port 3000.
+
+## Access
+### Login 
+- Enter a valid stud.noroff.no or noroff.no email adddress.
+- Enter password. 
+
+### Register New User
+- Enter name. 
+- Enter email address.
+- Enter password. 
