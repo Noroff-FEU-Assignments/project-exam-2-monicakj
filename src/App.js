@@ -13,7 +13,6 @@ import Profiles from "./components/profiles/ProfilesPage";
 import ProfileDetails from "./components/profiles/ProfileDetailsPage";
 import EditPost from './components/profile/EditPost';
 import UpdateMedia from "./components/profile/UpdateMedia";
-
 import PostDetails from "./components/posts/PostDetailsPage";
 
 function App() {
