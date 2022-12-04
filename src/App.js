@@ -14,6 +14,7 @@ import ProfileDetails from "./components/profiles/ProfileDetailsPage";
 import EditPost from './components/profile/EditPost';
 import UpdateMedia from "./components/profile/UpdateMedia";
 import PostDetails from "./components/posts/PostDetailsPage";
+import Posts from "./components/posts/PostsPage";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path="/login" element={<Login />}></Route>
             <Route path="/dashboard" element={<Dashboard />}></Route>
             <Route path="/my-profile" element={<Profile />}></Route>
+            <Route path="/posts" element={<Posts />}></Route>
             <Route path="/posts/:id" element={<PostDetails />}></Route>
             <Route path="/profiles"element={<Profiles />}></Route>
             <Route path="/profiles/:name" element={<ProfileDetails />}></Route>

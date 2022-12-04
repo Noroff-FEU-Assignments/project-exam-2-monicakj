@@ -5,7 +5,6 @@ import AuthContext from '../../context/AuthContext';
 import { useContext } from "react";
 import { Container } from 'react-bootstrap';
 import { MdOutlineWavingHand } from "react-icons/md";
-import PostList from "../posts/PostList";
 
 function Dashboard() {
   const [auth] = useContext(AuthContext);
@@ -23,13 +22,6 @@ function Dashboard() {
     <div className='dashboard__content'>
       <h4 className='subHeading'>Welcome back, {auth.name} <MdOutlineWavingHand /></h4>
       </div>
-    </div>
-    </Container>
-
-    <Container className='posts__container'>
-    <div className='profile--posts'>
-        <Heading title="Latest Posts" />
-        <PostList />
     </div>
     </Container>
     </>

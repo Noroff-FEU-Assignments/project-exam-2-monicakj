@@ -8,6 +8,7 @@ function SubNav() {
     <Container>
     <div className='sub__nav'>
       <NavLink to="/dashboard">Dashboard</NavLink>
+      <NavLink to="/posts">Latest Posts</NavLink>
       <NavLink to="/my-profile">My Profile</NavLink>
       <NavLink to="/profiles">Find Friends</NavLink>
       <LogoutButton />
