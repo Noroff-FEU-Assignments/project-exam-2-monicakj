@@ -40,7 +40,7 @@ SoMe are a social media platform where people can share posts and images with ot
     </tr>
     <tr>
       <th>Hosted Demo</th>
-      <td></td>
+      <td>https://the-some-company.netlify.app/</td>
     </tr>
   </tbody>
 </table>
