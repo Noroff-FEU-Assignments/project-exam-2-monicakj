@@ -87,11 +87,11 @@ The app will be running through your localhost on port 3000.
 ## Access
 ### Login 
 - Enter a valid stud.noroff.no or noroff.no email adddress.
-- Enter password. 
+- Enter password (the password must be at least 8 characters).
 
 ### Register New User
-- Enter name. 
+- Enter name (the name value must not contain punctuation symbols apart from underscore).
 - Enter a valid stud.noroff.no or noroff.no email address.
-- Enter password. 
+- Enter password (the password must be at least 8 characters).
 
 ## Summary
