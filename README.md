@@ -106,8 +106,8 @@ Project Exam 2 is the final project exam in my two-year Front-end study at Norof
 Even though I faced an error on Netlify (more info below) I am pleased with the final result of the app. There is always room for improvement on the app and I could add more details (images, etc.) on each page, but one thing that I have learned throughout the study is that working with developing websites/apps through coding is a work in progress. I look forward to learning more about the development field and experimenting more with developing websites/apps in the future.
 
 ### Error
-- On the Latest Posts page you will not be able to navigate to Post Details page (/posts/:id) or the Profile Details page (/profiles/:name) by clicking on the "View Post" button or the "Posted by: (...)" link. An error message with "Page Not Found" will appear on Netlify. The cause of the error may be in the Build folder or the deployment of the app.
+- On the Latest Posts page you will not be able to navigate to Post Details page (/posts/:id) or the Profile Details page (/profiles/:name) by clicking on the "View Post" button or the "Posted by: (...)" link. An error message with "Page Not Found" will appear on Netlify. The cause of the error may be in the Build folder or the deployment of the app. The error message will not appear when running the app locally on your computer.
 
-Here is how you can navigate to the Post Details page and Profile Details page via Netlify: 
+Here is how you can navigate to the Post Details page and Profile Details page on Netlify: 
 - **Post Details page** (through My Profile page -> "My Posts" section)
 - **Profile Details page** (through Find Friends page -> "Visit Profile" button)
