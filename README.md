@@ -122,7 +122,7 @@ The app will be running through your localhost on port 3000.
 Project Exam 2 is the final project exam in my two-year front-end studies at Noroff. 
 This project assignment has been fun, but also challenging due to facing multiple errors and having a hard time to figure out how to develop the entire app using JS. There have been some frustrating hours behind the computer, but I think I managed to check the requirements of the assignment. 
 
-Even though I faced an error on Netlify (more info below) I am pleased with the final result of the app. There is always room for improvements on the app and I could add more details (images and etc.) on each page, but one thing that I have learned throughout the studies is that working with developing websites/app is a work in progress. I look forward to learn more about the development field and to further experiment with developing websites/app in the future. 
+Even though I faced an error on Netlify (more info below) I am pleased with the final result of the app. There is always room for improvements on the app and I could add more details (images and etc.) on each page, but one thing that I have learned throughout the studies is that working with developing websites/app is a work in progress. I look forward to learn more about the development field and experiment more with developing websites/app in the future.
 
 ### Error
 - An error message will appear on Netlify when trying to navigate to the Post Details page (/posts/:id) or the Profile Details page (/profile/:name) via the Latest Posts page. The Build folder has probably something to do with this error. When navigating on the Latest Posts page you won't be able to click on the "View Posts" button or the creator of the post. 
