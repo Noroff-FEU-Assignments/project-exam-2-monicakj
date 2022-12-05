@@ -126,9 +126,8 @@ This project assignment has been fun, but also challenging due to facing multipl
 - An error message will appear on Netlify when trying to navigate to the Post Details page (/posts/:id) or the Profile Details page (/profile/:name) via the Latest Posts page. The Build folder has probably something to do with this error. When navigating on the Latest Posts page you won't be able to click on the "View Posts" button or the creator of the post. 
 
 Here is how you can navigate to the Post Details page and Profile Details page via Netlify: 
-
-**Post Details page** (through My Profile page -> "Latest Posts")
-**Profile Details page** (through Find Friends page -> "View Profile" button)
+- **Post Details page** (through My Profile page -> "Latest Posts")
+- **Profile Details page** (through Find Friends page -> "View Profile" button)
 
 ### Conclusion
 Even though I faced an error on Netlify I am pleased with the final result of the app. There is always room for improvements on the app and I have learned that becoming a front-end developer - everything is a work in progress. 
