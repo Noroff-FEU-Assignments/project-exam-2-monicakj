@@ -77,24 +77,6 @@ SoMe are a social media platform where users can share travel posts and images.
 - Clone the repo with GitHub Desktop. 
 - Open the repo in Visual Studio Code. 
 
-### Running the app
-To run the app, run the following commands in VS Code Terminal:
-- npm install
-- npm run start
-
-The app will be running through your localhost on port 3000.
-
-## Access
-### Login 
-- Enter a valid stud.noroff.no or noroff.no email adddress.
-- Enter password. 
-
-### Register New User
-- Enter name. 
-- Enter a valid stud.noroff.no or noroff.no email address.
-- Enter password. 
-
-## Summary
 ### Running
 To run the app, run the following commands in VS Code Terminal:
 
