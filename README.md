@@ -7,7 +7,7 @@ An existing Social Media company has approached you to create a brand new front 
 The API that are used for this project can be found under [Social EndPoints](https://nf-api.onrender.com/docs/static/index.html) in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
 ## Description 
-SoMe are a social media platform where users can share travel posts and images.
+SoMe is a social media platform that allows people to share their travel experiences with the world. On SoMe, users can post a variety of content, including images and blog posts, about their adventures and destinations. Whether you're a seasoned traveler or just starting to explore the world, SoMe is a great place to discover new places and connect with like-minded individuals who share your passion for travel. With its user-friendly interface and rich array of features, SoMe makes it easy to share and discover travel content, and to connect with others who love to travel.
 
 ## Resource and URL
 <table>
@@ -111,3 +111,7 @@ Even though I faced an error on Netlify (more info below) I am pleased with the 
 Here is how you can navigate to the Post Details page and Profile Details page on Netlify: 
 - **Post Details page** (through My Profile page -> "My Posts" section)
 - **Profile Details page** (through Find Friends page -> "Visit Profile" button)
+
+## Contact
+[My LinkedIn page](https://www.linkedin.com/in/monica-kj%C3%A6rvoll-b8bba3133/)
+
